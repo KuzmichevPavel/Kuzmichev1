@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\menu">
+      <UniqueIdentifier>{fee78015-3f08-40cc-b177-3c105b30c0d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar3">
+      <UniqueIdentifier>{ee3fed88-5c2a-44d1-a66e-161b7acd94d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar4">
+      <UniqueIdentifier>{b5819c9e-6f9d-43c6-9d9f-1d49eee7dd08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar5">
+      <UniqueIdentifier>{8d964943-f911-4bf6-93a9-84d00df734a6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_main.cpp">
+      <Filter>Исходные файлы\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_choice.cpp">
+      <Filter>Исходные файлы\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="enter_menu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="enter_seminar3.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="Input_array.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_seminar3.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="Output_array.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="max_number_array.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_max_elements.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="rotate_array.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="enter_seminar4.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="Input_array_matrix.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="Output_array_matrix.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_seminar4.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="number_positive.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="delete_zero_matrix.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="enter_seminar_5.cpp">
+      <Filter>Исходные файлы\seminar5</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="function.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="library.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
